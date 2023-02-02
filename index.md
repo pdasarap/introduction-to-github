@@ -8,3 +8,13 @@ Lets add an image now!
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+Adding Code Markdown: It should be rendered differently according to the language 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+```
+for i in range(n):
+  print("This is just fun")
+```
