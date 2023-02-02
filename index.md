@@ -3,3 +3,8 @@ I have to write something on this
 ## thisi s h2 size header
 it goes till h6 and to keep decreasing the size of header we keep increasing the number of hash tags infront of the text
 ###### this is the smallest h6
+
+Lets add an image now!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
