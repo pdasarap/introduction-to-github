@@ -18,3 +18,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 for i in range(n):
   print("This is just fun")
 ```
+
+Here comes a task list:
+- [x] Task number 1 is done
+- [x] Task number 2 is in progress
+- [ ] Task number 3 not done
